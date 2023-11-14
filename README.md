@@ -1,15 +1,11 @@
-Site de Projetos de Circuitos Integrados Analógicos e Digitais
-
-Integrantes do Grupo: 
-
-Daniel Domingues Gama; 
-
-Henry Mitsuo Kasai;
-
-Leonardo Wright Lima; 
-
-Marcelo Berger Gil;
-
-Matheus Gois Rocha; 
-
-Vinicius Lustosa Silva.
+<h1>Site de Projetos de Circuitos Integrados Analógicos e Digitais</h1>
+<p>Integrantes do Grupo: 
+<ul>
+<li>Daniel Domingues Gama;</li> 
+<li>Henry Mitsuo Kasai;</li>
+<li>Leonardo Wright Lima;</li> 
+<li>Marcelo Berger Gil;</li>
+<li>Matheus Gois Rocha;</li> 
+<li>Vinicius Lustosa Silva.</li>
+</ul>
+</p>
